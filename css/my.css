@@ -102,6 +102,7 @@ justify-content: left;
   padding-top: 10px;
   margin-top: 10px;
   margin-bottom: 10px;
+  border-radius: 50px;
 }
 .iframe{
 width: 500px;
@@ -921,4 +922,8 @@ margin: 12px auto 0;
   to {
     background-position: 200% center;
   }
+}
+#getstarted{
+  color: white;
+  background-color: #000;
 }
